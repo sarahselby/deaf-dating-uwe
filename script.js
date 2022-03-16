@@ -8,7 +8,7 @@ function playCooking () {
 }
 
 function playDance () {
-	var audio = new Audio("assets/audio/pac-man.wav")
+	var audio = new Audio("assets/audio/boogieshoes.mp3")
 	audio.play();
 }
 
