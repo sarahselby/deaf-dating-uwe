@@ -12,4 +12,9 @@ function playDance () {
 	audio.play();
 }
 
+function playFilm () {
+	var audio = new Audio("assets/audio/filmreel.mp3")
+	audio.play();
+}
+
 
